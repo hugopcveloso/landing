@@ -1,0 +1,16 @@
+.button {
+  color:black;
+  padding:10px 20px;
+  font-weight:bold;
+  background-color:#D5F1D8;
+  border-radius:6px;
+  box-shadow: 3px 3px 7px lightgrey;
+  font-family:'VT323';
+  font-size:50px;
+}
+
+.button:hover {
+  background-color:black
+  border:0px solid #999999;
+  box-shadow: 1px 1px lightgrey;
+}

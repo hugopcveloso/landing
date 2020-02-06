@@ -1,0 +1,26 @@
+.socialmedia {
+  display:flex;
+  justify-content:center;
+  align-content: flex-start;
+
+}
+
+.footer {
+  margin:20px auto;
+  padding:30px;
+  background-size:contain;
+  background-image: linear-gradient(to right top, #e2cfef, #c7ace2, #aa8bd6, #886bca, #614ebf);
+}
+
+i{
+  font-size:50px;
+  color:white;
+  margin:20px 20px 0px 20px;
+}
+
+
+.footer p {
+  color:white;
+  font-weight: bold;
+  margin:15px;
+}
